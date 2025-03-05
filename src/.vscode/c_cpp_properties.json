@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/roth/mu_ws/install/yahboom_rosmaster_msgs/include/**",
+        "/home/roth/mu_ws/install/mecanum_drive_controller/include/**",
+        "/home/roth/ros2_ws/install/ros_ign_interfaces/include/**",
+        "/home/roth/ros2_ws/install/ros_gz_sim/include/**",
+        "/home/roth/ros2_ws/install/ros_gz_bridge/include/**",
+        "/home/roth/ros2_ws/install/ros_gz_interfaces/include/**",
+        "/home/roth/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/roth/install/my_robot_interfaces/include/**",
+        "/home/roth/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/roth/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/roth/mu_ws/src/mecanum_drive_controller/include/**",
+        "/home/roth/mu_ws/src/yahboom_rosmaster/include/**",
+        "/home/roth/mu_ws/src/yahboom_rosmaster_docking/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

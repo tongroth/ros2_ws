@@ -1,0 +1,17 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/roth/mu_ws/install/yahboom_rosmaster_navigation/lib/python3.12/site-packages",
+        "/home/roth/mu_ws/install/yahboom_rosmaster_msgs/lib/python3.12/site-packages",
+        "/home/roth/ros2_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/roth/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/roth/ros2_ws/install/actions_py/lib/python3.12/site-packages",
+        "/home/roth/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/roth/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/roth/ros2_ws/install/multi_turtlesim/lib/python3.12/site-packages",
+        "/home/roth/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/roth/build/my_py_pkg",
+        "/home/roth/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/roth/install/multi_turtlesim/lib/python3.10/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
